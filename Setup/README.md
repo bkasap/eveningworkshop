@@ -1,4 +1,4 @@
-##Install Ubuntu in Virtual box
+## Install Ubuntu in Virtual box
 
 In our first gatherin, we set-up the environment. From scratch, we installed Ubuntu 18.04 LTS on VirtualBox and install Docker on it and ran ELK stack on Docker. We went a step further to run metricbeat and saw the system data in Kibana Discover, next thing would be setting up metricbeat dashboards. But we are done for now...
 
